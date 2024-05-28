@@ -18,13 +18,11 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Sebin%20Github&desc=welcome%20junior%20developer%20Github&descSize=30&fontSize=90&fontColor=#ffffff&fontAlignY=60&desc=Desc&descAlignY=20)
 
 > ### Available languages
-> -----------------------------
 > - JAVA
 > - Python
 > - Javascript
 
 ### Tools Available
------------------------
 - Intellij
 - Eclipse
 - MySQL
