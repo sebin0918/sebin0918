@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=welcome Sebin Github%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SebinGithub%20render&fontSize=90)
 
 <!-- https://github.com/kyechan99/capsule-render?tab=readme-ov-file#how-to-use -->
