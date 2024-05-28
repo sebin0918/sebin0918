@@ -22,15 +22,16 @@ Here are some ideas to get you started:
 > - Python
 > - Javascript
 
-### Tools Available
-- Intellij
-- Eclipse
-- MySQL
-- MariaDB
-- VSC
-- Docker
-- Node.js
-- React
+> ### Tools Available
+> - Intellij
+> - Eclipse
+> - MySQL
+> - MariaDB
+> - VSC
+> - Docker
+> - Node.js
+> - React
+
 
 
 <!-- https://github.com/kyechan99/capsule-render?tab=readme-ov-file#how-to-use -->
