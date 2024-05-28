@@ -25,10 +25,11 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
     <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black">
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/eclipse ide-2C2255?style=flat-square&logo=eclipse ide&logoColor=white">
     <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=android studio&logoColor=white">
     <img src="https://img.shields.io/badge/intellij idea-000000?style=flat-square&logo=intellij idea&logoColor=white">
     <img src="https://img.shields.io/badge/visual studio code-007ACC?style=flat-square&logo=visual studio code&logoColor=white">
-    <img src="https://img.shields.io/badge/notion-007ACC?style=flat-square&logo=notion&logoColor=white">
+    <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white">
 
 </div>
 
