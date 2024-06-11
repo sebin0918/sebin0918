@@ -34,3 +34,5 @@ Here are some ideas to get you started:
 </div>
 
 <!-- https://github.com/kyechan99/capsule-render?tab=readme-ov-file#how-to-use -->
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sebin0918)](https://solved.ac/sebin0918/)
