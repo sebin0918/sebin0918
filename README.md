@@ -86,7 +86,9 @@ Here are some ideas to get you started:
 <div>
     <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white">
-    <img src="https://img.shields.io/badge/Tech Blog-181717?style=flat-square&logo=github&logoColor=white">
+    <a href="https://github.com/sebin0918" target="_blank">
+        <img src="https://img.shields.io/badge/Tech Blog-181717?style=flat-square&logo=github&logoColor=white">
+    </a>
 </div>
 
 
