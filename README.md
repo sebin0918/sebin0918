@@ -83,27 +83,10 @@ Here are some ideas to get you started:
 
 
 ## 📞 Contact
-<div>
-    <!-- Naver 이메일 링크 -->
-    <a href="mailto:sebin0918@naver.com">
-        <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white">
-    </a>
-    
-    <!-- Gmail 이메일 링크 -->
-    <a href="mailto:dlavkffk0918@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white">
-    </a>
-
-    <!-- 기본 깃허브 링크 -->
-    <a href="https://github.com/sebin0918" target="_blank">
-        <img src="https://img.shields.io/badge/Tech Blog-181717?style=flat-square&logo=github&logoColor=white">
-    </a>
-
-    <!-- 노션 링크 -->
-    <a href="https://github.com/sebin0918" target="_blank">
-        <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
-    </a>
-</div>
+[![Naver](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:sebin0918@naver.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dlavkffk0918@gmail.com)
+[![Tech Blog](https://img.shields.io/badge/Tech%20Blog-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sebin0918)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://github.com/sebin0918)
 
 
 <!-- https://github.com/kyechan99/capsule-render?tab=readme-ov-file#how-to-use -->
