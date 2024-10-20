@@ -103,7 +103,7 @@ Here are some ideas to get you started:
 [![Naver](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=naver&logoColor=white)](mailto:sebin0918@naver.com)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:dlavkffk0918@gmail.com)
 [![Tech Blog](https://img.shields.io/badge/Tech%20Blog-181717?style=flat&logo=github&logoColor=white)](https://github.com/sebin0918)
-[![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)(https://creative-fox-a1a.notion.site/Portfolio-d8985109606246a0a37e784e7d483291?pvs=4)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://creative-fox-a1a.notion.site/Portfolio-d8985109606246a0a37e784e7d483291?pvs=4)
 [![Instagram](https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/imsebin8109/)
 
 
