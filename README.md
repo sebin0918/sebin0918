@@ -58,6 +58,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Intellij idea-000000?style=for-the-badge&logo=intellij idea&logoColor=white">
     <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse ide&logoColor=white">
     <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=android studio&logoColor=white">
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
 </div>
 
 ### <div align="center">💻 DevOps 🖥</div>
@@ -83,6 +84,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
     <img src="https://img.shields.io/badge/ERD Cloud-000000?style=for-the-badge&logo=erdcloud&logoColor=white">
+    <img src="https://img.shields.io/badge/PostMan-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 </div>
 
 ## <h3 align="center">💡 My Most Used Languages & My Git Stats 💡</h3>
